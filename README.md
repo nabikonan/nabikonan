@@ -4,14 +4,15 @@
 **nabikonan/nabikonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+- 💸 I ran a business for a couple of years.
+- 🔭 I’m currently working on an a finance management project for businesses.
+- 🌱 I’m currently learning Big Data and Business strategies.
 
-- 🔭 I’m currently working on an Agentic project for Businesses.
-- 🌱 I’m currently learning Data Science and Business.
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
